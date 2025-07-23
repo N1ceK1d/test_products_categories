@@ -1,18 +1,18 @@
 <h2>Категории:</h2>
 <ul>
-  <li><b color='red'>GET</b> /api/categories - получить все категории с количеством товаров</li>
-  <li>POST /api/categories - создать категорию</li>
-  <li>PUT /api/categories/:id - обновить категорию</li>
-  <li>DELETE /api/categories/:id - удалить категорию</li>
+  <li><b>GET</b> /api/categories - получить все категории с количеством товаров</li>
+  <li><b>POST</b> /api/categories - создать категорию</li>
+  <li><b>PUT</b> /api/categories/:id - обновить категорию</li>
+  <li><b>DELETE</b> /api/categories/:id - удалить категорию</li>
 </ul>
 <hr>
 
 <h2>Товары:</h2>
 <ul>
-  <li>GET /api/products/ - получить все товары </li>
-  <li>POST /api/products - создать товар</li>
-  <li>PUT /api/products/:id - обновить товар</li>
-  <li>DELETE /api/products/:id - удалить товар</li>
+  <li><b>GET</b> /api/products/ - получить все товары </li>
+  <li><b>POST</b> /api/products - создать товар</li>
+  <li><b>PUT</b> /api/products/:id - обновить товар</li>
+  <li><b>DELETE</b> /api/products/:id - удалить товар</li>
 </ul>
 
 

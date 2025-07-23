@@ -1,6 +1,6 @@
 <h2>Категории:</h2>
 <ul>
-  <li>GET /api/categories - получить все категории с количеством товаров</li>
+  <li><b color='red'>GET</b> /api/categories - получить все категории с количеством товаров</li>
   <li>POST /api/categories - создать категорию</li>
   <li>PUT /api/categories/:id - обновить категорию</li>
   <li>DELETE /api/categories/:id - удалить категорию</li>

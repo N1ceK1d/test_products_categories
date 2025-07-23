@@ -9,6 +9,5 @@ app.use(express.json());
 app.use(express.urlencoded());   
 
 app.use('/api', routes);
-app.use('/api', routes);
 
 app.listen(3000);
